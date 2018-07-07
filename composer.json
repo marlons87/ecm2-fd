@@ -1,0 +1,21 @@
+{
+
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*",
+		"mdmsoft/yii2-admin": "~2.0",
+        "yiisoft/yii2-debug": "^2.0@dev",
+		"scotthuangzl/yii2-google-chart": "dev-master",
+		"yiisoft/yii2-swiftmailer": "~2.0.0",
+        "giannisdag/yii2-check-login-attempts": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "scotthuangzl\\googlechart\\": ""
+        }
+    },
+    "require-dev": {
+		"phpunit/phpunit": "~4.4",
+		"yiisoft/yii2-gii": "^2.0@dev"
+    }
+}
