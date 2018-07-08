@@ -1,0 +1,57 @@
+Message-ID: <cc819675fb6328053a7b3eeeb9cb57f6@backend.yii2-starter.dev>
+Date: Thu, 28 Jun 2018 07:21:57 +0200
+Subject: Restablecer la =?utf-8?Q?contrase=C3=B1a?= para  ECM2
+From: ECM2 robot <marlons87@gmail.com>
+To: marlons87@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1530163317_a8ef8049b7bdbc382850d7689f4383db_=_"
+
+
+--_=_swift_v4_1530163317_a8ef8049b7bdbc382850d7689f4383db_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Hello 0201230456,
+
+Follow the link below to reset your password:=
+
+
+http://backend.yii2-starter.dev/index.php/site/reset-password?token=
+=3DWB-4DZJNYnomZxQHXIqBdUTEWhdF5jxN_1530163309
+
+--_=_swift_v4_1530163317_a8ef8049b7bdbc382850d7689f4383db_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <h1>EMC2</h1>
+    <div class=3D"password-reset">
+    <p>Hola estima=
+do 0201230456,</p>
+
+    <p>Dir=C3=ADjase al siguiente Link para reestab=
+lecer su contrase=C3=B1a de usuario:</p>
+
+    <p><a href=3D"http://yii2=
+-starter.dev/site/reset-password?token=3DWB-4DZJNYnomZxQHXIqBdUTEWhdF5jxN_1=
+530163309">http://yii2-starter.dev/site/reset-password?token=3DWB-4DZJNYnom=
+ZxQHXIqBdUTEWhdF5jxN_1530163309</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_v4_1530163317_a8ef8049b7bdbc382850d7689f4383db_=_--

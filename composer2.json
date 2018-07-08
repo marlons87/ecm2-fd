@@ -1,0 +1,35 @@
+{
+	"name": "miloschuman/yii2-highcharts-widget",
+	"description": "Highcharts widget for Yii 2 Framework.",
+	"keywords": ["yii2", "extension", "widget", "highcharts", "highstock", "highmaps"],
+	"homepage": "https://github.com/miloschuman/yii2-highcharts",
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Milo Schuman",
+			"email": "miloschuman@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"yiisoft/yii2": "*",
+        "bower-asset/highcharts" : "^6.0",
+		"scotthuangzl/yii2-google-chart": "dev-master",
+		"slavkovrn/yii2-visualize": "dev-master",
+		"sjaakp/yii2-gcharts": "*",
+		"mrlco/yii2-google-charts": "*",
+		"yiisoft/yii2-debug": "^2.0@dev",
+		"dmstr/yii2-adminlte-asset": "^2.1",
+		"mdmsoft/yii2-admin": "~2.0"
+	},
+    "require-dev": {
+		"phpunit/phpunit": "~4.4",
+		"yiisoft/yii2-gii": "^2.0@dev"
+	},
+	"autoload": {
+		"psr-4": {
+			"miloschuman\\highcharts\\": "src/"
+		}
+	}
+}

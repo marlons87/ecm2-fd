@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"Usuarios"
+			],
+			[
+				"Id",
+				"Id_Rol"
+			],
+			[
+				"Validar",
+				"ValidarFormularioAjax"
+			],
+			[
+				"validar",
+				"validarformulario"
+			],
+			[
+				"Va",
+				"validarformulario"
+			],
+			[
+				"req",
+				"requerido"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"actio",
+				"action"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"ren",
+				"render"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/extensions.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/composer.json",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/README.md",
+		"/C/xampp/htdocs/yii2-starter/composer.json",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/Chart.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/ColumnChart.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/BarChart.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/BubbleChart.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/PieChart.php",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-gcharts/AreaChart.php",
+		"/C/xampp/htdocs/basic/vendor/bower-asset/yii2-pjax/vendor/qunit.js",
+		"/C/xampp/htdocs/basic/vendor/bower-asset/bootstrap/dist/js/bootstrap.js",
+		"/C/xampp/htdocs/composer.lock",
+		"/C/Users/Jesus/AppData/Roaming/Composer/composer.json",
+		"/C/xampp/htdocs/yii2-starter/composer.json1",
+		"/C/xampp/htdocs/yii2-starter/vendor/yiisoft/yii2-composer/composer.json",
+		"/C/xampp/htdocs/composer.phar",
+		"/C/Users/Jesus/AppData/Roaming/Composer/auth.json1",
+		"/C/xampp/htdocs/yii2-starter/vendor/miloschuman/highcharts/Highcharts.php",
+		"/C/Users/Jesus/AppData/Roaming/Composer/auth.json",
+		"/C/xampp/htdocs/yii2-starter/common/mail/layouts/html.php",
+		"/C/xampp/htdocs/yii2-starter/common/mail/layouts/text.php",
+		"/C/xampp/htdocs/yii2-starter/frontend/views/evaluaciones/update.php",
+		"/C/xampp/htdocs/yii2-starter/common/fixtures/UserFixture.php",
+		"/C/xampp/htdocs/yii2-starter/common/config/test.php",
+		"/C/xampp/htdocs/yii2-starter/common/config/test-local.php",
+		"/C/xampp/htdocs/yii2-starter/common/config/params-local.php",
+		"/C/xampp/htdocs/yii2-starter/common/config/main.php",
+		"/C/xampp/htdocs/yii2-starter/common/config/main-local.php",
+		"/C/xampp/htdocs/yii2-starter/common/config/params.php",
+		"/C/xampp/htdocs/basic/controllers/SiteController.php",
+		"/C/xampp/htdocs/basic/views/usuarios/create.php",
+		"/C/xampp/htdocs/basic/views/usuarios/_form.php",
+		"/C/xampp/htdocs/basic/controllers/UsuariosController.php",
+		"/C/xampp/htdocs/yii2-starter/backend/controllers/RolesController.php",
+		"/C/xampp/htdocs/yii2-starter/backend/config/main.php",
+		"/C/xampp/htdocs/yii2-starter/backend/controllers/SiteController.php",
+		"/C/xampp/htdocs/yii2-starter/backend/models/Roles.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/instituciones/view.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/instituciones/update.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/site/index.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/layouts/main.php",
+		"/C/xampp/htdocs/yii2-starter/backend/config/main-local.php",
+		"/C/xampp/htdocs/yii2-starter/backend/config/params.php",
+		"/C/xampp/htdocs/yii2-starter/backend/config/params-local.php",
+		"/C/xampp/htdocs/yii2-starter/backend/models/Instituciones.php",
+		"/C/xampp/htdocs/basic/models/Roles.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/controles/_form.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/controles/index.php",
+		"/C/xampp/htdocs/yii2-starter/backend/views/niveles/index.php",
+		"/C/xampp/htdocs/yii2-starter/backend/web/index.php",
+		"/C/xampp/htdocs/basic/models/Dominios.php",
+		"/C/xampp/htdocs/basic/models/Usuarios.php",
+		"/C/xampp/htdocs/basic/views/usuarios/_search.php",
+		"/C/xampp/htdocs/basic/views/usuarios/view.php",
+		"/C/xampp/htdocs/basic/views/usuarios/update.php",
+		"/C/xampp/htdocs/basic/models/UsuariosSearch.php",
+		"/C/xampp/htdocs/basic/models/User.php",
+		"/C/xampp/htdocs/basic/views/controles/create.php",
+		"/C/xampp/htdocs/basic/views/controles/view.php",
+		"/C/Users/Jesus/Desktop/User.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/basic/config/db.php",
+		"/C/xampp/htdocs/basic/config/web.php",
+		"/C/xampp/htdocs/basic/web/.htaccess",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/basic/views/site/about.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "requirements.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
