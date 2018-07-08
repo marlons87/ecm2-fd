@@ -21,24 +21,6 @@ return array (
       '@scotthuangzl/googlechart' => $vendorDir . '/scotthuangzl/yii2-google-chart',
     ),
   ),
-  'yiisoft/yii2-bootstrap' => 
-  array (
-    'name' => 'yiisoft/yii2-bootstrap',
-    'version' => '9999999-dev',
-    'alias' => 
-    array (
-      '@yii/bootstrap' => $vendorDir . '/yiisoft/yii2-bootstrap/src',
-    ),
-  ),
-  'yiisoft/yii2-gii' => 
-  array (
-    'name' => 'yiisoft/yii2-gii',
-    'version' => '9999999-dev',
-    'alias' => 
-    array (
-      '@yii/gii' => $vendorDir . '/yiisoft/yii2-gii/src',
-    ),
-  ),
   'yiisoft/yii2-swiftmailer' => 
   array (
     'name' => 'yiisoft/yii2-swiftmailer',
@@ -48,6 +30,15 @@ return array (
       '@yii/swiftmailer' => $vendorDir . '/yiisoft/yii2-swiftmailer',
     ),
   ),
+  'yiisoft/yii2-bootstrap' => 
+  array (
+    'name' => 'yiisoft/yii2-bootstrap',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@yii/bootstrap' => $vendorDir . '/yiisoft/yii2-bootstrap/src',
+    ),
+  ),
   'yiisoft/yii2-debug' => 
   array (
     'name' => 'yiisoft/yii2-debug',
@@ -55,6 +46,15 @@ return array (
     'alias' => 
     array (
       '@yii/debug' => $vendorDir . '/yiisoft/yii2-debug/src',
+    ),
+  ),
+  'yiisoft/yii2-gii' => 
+  array (
+    'name' => 'yiisoft/yii2-gii',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@yii/gii' => $vendorDir . '/yiisoft/yii2-gii/src',
     ),
   ),
 );

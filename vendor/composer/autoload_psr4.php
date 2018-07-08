@@ -18,6 +18,7 @@ return array(
     'giannisdag\\yii2CheckLoginAttempts\\' => array($vendorDir . '/giannisdag/yii2-check-login-attempts/src'),
     'cebe\\markdown\\' => array($vendorDir . '/cebe/markdown'),
     'Webmozart\\Assert\\' => array($vendorDir . '/webmozart/assert/src'),
+    'Symfony\\Polyfill\\Ctype\\' => array($vendorDir . '/symfony/polyfill-ctype'),
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
     'Doctrine\\Instantiator\\' => array($vendorDir . '/doctrine/instantiator/src/Doctrine/Instantiator'),
 );

@@ -7,6 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit9c478ce994d4922fb05153fdb1089a83
 {
     public static $files = array (
+        '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         '2cffec82183ee1cea088009cef9a6fc3' => __DIR__ . '/..' . '/ezyang/htmlpurifier/library/HTMLPurifier.composer.php',
         '2c102faa651ef8ea5874edb585946bce' => __DIR__ . '/..' . '/swiftmailer/swiftmailer/lib/swift_required.php',
     );
@@ -47,6 +48,7 @@ class ComposerStaticInit9c478ce994d4922fb05153fdb1089a83
         ),
         'S' => 
         array (
+            'Symfony\\Polyfill\\Ctype\\' => 23,
             'Symfony\\Component\\Yaml\\' => 23,
         ),
         'D' => 
@@ -106,6 +108,10 @@ class ComposerStaticInit9c478ce994d4922fb05153fdb1089a83
         'Webmozart\\Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
+        ),
+        'Symfony\\Polyfill\\Ctype\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
         'Symfony\\Component\\Yaml\\' => 
         array (
