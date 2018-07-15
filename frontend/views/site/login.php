@@ -26,7 +26,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <p>Cargando</p>
             </div>
         </div>
-
+<?php $form = ActiveForm::begin(['id' => 'login-form']); ?>
         <div id="overlay" class="modalDialog">
             <div>
                 <a onclick="overlay();" title="Cerrar" class="close">X</a>
@@ -55,15 +55,16 @@ $this->params['breadcrumbs'][] = $this->title;
                 <button class="btn btn-primary" onclick="overlay();">Cerrar</button>
             </div>
         </div>
+         <?php ActiveForm::end(); ?>
         
-        
-        <div class="col-lg-5">            
-            <?php $form = ActiveForm::begin(['id' => 'login-form']); ?>
-                <div class="form-group">
-                    <?= Html::submitButton('Iniciar sesión', ['class' => 'btn btn-success', 'value' => 'my_value', 'onClick' => 'verificarConexion();']);
-                        ?>                    
-                </div>
-            <?php ActiveForm::end(); ?>
+        <div class="col-lg-5"> 
+            <div class="form-group">                 
+                    
+                    <button class="btn btn-primary" onclick="showModalAutenticacion();">Iniciar sesión</button>
+                </div>           
+            
+                
+           
         </div>
     </div>
 </div>

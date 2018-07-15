@@ -2,10 +2,8 @@
  * jq("#divLoading").dialog({
                 autoOpen: false
 });*/
-
-
+ 
 function overlay() {
-	alert("Hola Mundoooo!");
     var el = document.getElementById("overlay");
     el.style.visibility = (el.style.visibility == "visible") ? "hidden" : "visible";
     var pin = document.getElementById("pin");
@@ -14,8 +12,7 @@ function overlay() {
 }
 
 async function showModalAutenticacion(){
-  alert("Hola Mundoooo!");
-  //var modalLoading = jq('#divLoading'); 
+  var modalLoading = jq('#divLoading'); 
   await verificarConexion(modalLoading);
 }
 
@@ -61,7 +58,7 @@ function verificarConexionAjax(modalLoading){
 }
 
 function verificarConexion(modalLoading){
-	var modalLoading = jq('#divLoading');    
+	   
 	var result = "";
 	var jsonParams = {"cmd":"info"};
 	var codigo = 2;
@@ -202,4 +199,3 @@ async function smartCardCertificates(){
         alert(description);
     }
 }
-*/
